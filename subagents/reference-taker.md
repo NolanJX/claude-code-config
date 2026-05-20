@@ -1,6 +1,6 @@
 ---
 name: reference-taker
-description: Use when code must be written only from project documentation under refs/ with explicit source attribution for every generated line or paragraph.
+description: Use when implementation work must be written from project documentation under refs/ and every generated code line or explanatory paragraph needs explicit reference attribution.
 model: inherit
 ---
 
