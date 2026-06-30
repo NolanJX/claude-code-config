@@ -2,6 +2,7 @@
   "env": {
     "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": 1
   },
+  "cleanupPeriodDays": 99999,
   "permissions": {
     "deny": [
       "Read(**/.env)"
