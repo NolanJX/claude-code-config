@@ -3,6 +3,7 @@
     "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": 1
   },
   "cleanupPeriodDays": 99999,
+  "disableDeepLinkRegistration": "disable",
   "permissions": {
     "deny": [
       "Read(**/.env)"
